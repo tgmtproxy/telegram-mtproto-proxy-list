@@ -1,6 +1,6 @@
 # Telegram MTProto proxy list — updated hourly
 
-600 working MTProxy servers (600 verified by a real MTProto handshake). Updated **2026-09-13 11:20 MSK**, refreshed automatically every hour.
+900 working MTProxy servers (703 verified by a real MTProto handshake). Updated **2026-09-13 11:20 MSK**, refreshed automatically every hour.
 
 > 🌐 Live catalog with client-side ping: **https://tgmtproxy.github.io/mtproxy/** · text list: [`proxies.txt`](https://tgmtproxy.github.io/mtproxy/proxies.txt) · [`proxies.json`](https://tgmtproxy.github.io/mtproxy/proxies.json)
 
@@ -29,7 +29,7 @@
 | 19 | `a07.lovely.lat` | 443 | ✅ работает | 30 мс | [tg://proxy](tg://proxy?server=a07.lovely.lat&port=443&secret=eeef7017f26c9ecb71ed8d760999294318786170692e6f7a6f6e2e7275) · [t.me](https://t.me/proxy?server=a07.lovely.lat&port=443&secret=eeef7017f26c9ecb71ed8d760999294318786170692e6f7a6f6e2e7275) |
 | 20 | `a07.mtjlpoto.fit` | 443 | ✅ работает | 30 мс | [tg://proxy](tg://proxy?server=a07.mtjlpoto.fit&port=443&secret=eeef7017f26c9ecb71ed8d760999294318786170692e6f7a6f6e2e7275) · [t.me](https://t.me/proxy?server=a07.mtjlpoto.fit&port=443&secret=eeef7017f26c9ecb71ed8d760999294318786170692e6f7a6f6e2e7275) |
 
-## Public MTProto proxies alive right now (top 60 of 60)
+## Public MTProto proxies alive right now (top 60 of 480)
 
 | # | Сервер | Порт | Статус | Пинг | Подключить |
 |---|---|---|---|---|---|
