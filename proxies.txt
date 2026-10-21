@@ -899,3 +899,4 @@ https://t.me/proxy?server=hawk.lanternmoss.top&port=443&secret=ee2b6eb790d613a17
 https://t.me/proxy?server=cedar.lite64.click&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=titan.driftquill.click&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=bolt.velvetoak.work&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
+tg://proxy?server=help.esnappkala.help&port=443&secret=ee019ca68f0d19b27e4a11bd99fd508f487777772e636c6f7564666c6172652e636f6d
